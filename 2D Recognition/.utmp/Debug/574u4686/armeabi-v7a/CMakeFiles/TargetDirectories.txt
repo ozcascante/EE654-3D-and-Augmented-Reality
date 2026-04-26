@@ -1,0 +1,5 @@
+C:/Users/tonyc/Art_Insider_GPU2Inference/.utmp/Debug/574u4686/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/tonyc/Art_Insider_GPU2Inference/.utmp/Debug/574u4686/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/tonyc/Art_Insider_GPU2Inference/.utmp/Debug/574u4686/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+C:/Users/tonyc/Art_Insider_GPU2Inference/.utmp/Debug/574u4686/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/tonyc/Art_Insider_GPU2Inference/.utmp/Debug/574u4686/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir

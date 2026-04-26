@@ -1,0 +1,5 @@
+/home/master26/Augmented_Reality/Art_Insider_GPU2Inference/.utmp/Debug/2s206m5g/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/master26/Augmented_Reality/Art_Insider_GPU2Inference/.utmp/Debug/2s206m5g/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/master26/Augmented_Reality/Art_Insider_GPU2Inference/.utmp/Debug/2s206m5g/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+/home/master26/Augmented_Reality/Art_Insider_GPU2Inference/.utmp/Debug/2s206m5g/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+/home/master26/Augmented_Reality/Art_Insider_GPU2Inference/.utmp/Debug/2s206m5g/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir

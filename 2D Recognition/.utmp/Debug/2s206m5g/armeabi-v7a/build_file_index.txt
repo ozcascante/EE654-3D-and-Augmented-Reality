@@ -1,0 +1,2 @@
+/home/master26/Augmented_Reality/Art_Insider_GPU2Inference/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/home/master26/Augmented_Reality/Art_Insider_GPU2Inference/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt

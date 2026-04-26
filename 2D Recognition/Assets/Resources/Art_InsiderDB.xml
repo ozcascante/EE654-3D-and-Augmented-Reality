@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Art_InsiderDB>
+    
+    <painting>
+        <id>Girl with pearl earing</id>
+        <name>Girl with a Pearl Earring</name>
+        <painter>Johannes Vermeer</painter>
+        <year>1665</year>
+        <style>Baroque</style>
+        <description>A portrait of a young girl wearing an exotic dress and a large pearl earring, known for its subtle lighting and intimate expression.</description>
+    </painting>
+
+    <painting>
+        <id>Guernica</id>
+        <name>Guernica</name>
+        <painter>Pablo Picasso</painter>
+        <year>1937</year>
+        <style>Cubism</style>
+        <description>A powerful anti-war painting depicting the suffering caused by the bombing of Guernica during the Spanish Civil War.</description>
+    </painting>
+
+    <painting>
+        <id>Monalisa</id>
+        <name>Mona Lisa</name>
+        <painter>Leonardo da Vinci</painter>
+        <year>1503</year>
+        <style>Renaissance</style>
+        <description>A world-famous portrait known for the subject’s enigmatic smile and masterful use of sfumato technique.</description>
+    </painting>
+
+    <painting>
+        <id>Starry Night</id>
+        <name>The Starry Night</name>
+        <painter>Vincent van Gogh</painter>
+        <year>1889</year>
+        <style>Post-Impressionism</style>
+        <description>A swirling night sky over a quiet town, expressing deep emotion through bold colors and dynamic brushstrokes.</description>
+    </painting>
+
+    <painting>
+        <id>Sunrise</id>
+        <name>Impression, Sunrise</name>
+        <painter>Claude Monet</painter>
+        <year>1872</year>
+        <style>Impressionism</style>
+        <description>A harbor scene at sunrise that gave the Impressionist movement its name, characterized by loose brushwork and light effects.</description>
+    </painting>
+
+    <painting>
+        <id>Terrasse Du Cafe</id>
+        <name>Café Terrace at Night</name>
+        <painter>Vincent van Gogh</painter>
+        <year>1888</year>
+        <style>Post-Impressionism</style>
+        <description>A vibrant depiction of a café terrace under a starry sky, notable for its warm colors and lively atmosphere.</description>
+    </painting>
+
+    <painting>
+        <id>The Kiss</id>
+        <name>The Kiss</name>
+        <painter>Gustav Klimt</painter>
+        <year>1908</year>
+        <style>Symbolism</style>
+        <description>An iconic image of a couple embracing, decorated with gold leaf and intricate patterns representing love and intimacy.</description>
+    </painting>
+
+    <painting>
+        <id>The Liffey Swim</id>
+        <name>The Liffey Swim</name>
+        <painter>Jack B. Yeats</painter>
+        <year>1923</year>
+        <style>Expressionism</style>
+        <description>A dynamic scene capturing swimmers racing along the River Liffey in Dublin, full of movement and vibrant color.</description>
+    </painting>
+
+    <painting>
+        <id>The Persistance of Time</id>
+        <name>The Persistence of Memory</name>
+        <painter>Salvador Dalí</painter>
+        <year>1931</year>
+        <style>Surrealism</style>
+        <description>A dreamlike landscape featuring melting clocks, symbolizing the fluid and distorted nature of time.</description>
+    </painting>
+
+    <painting>
+        <id>The Scream</id>
+        <name>The Scream</name>
+        <painter>Edvard Munch</painter>
+        <year>1893</year>
+        <style>Expressionism</style>
+        <description>An iconic depiction of anxiety and existential dread, showing a figure screaming against a blood-red sky.</description>
+    </painting>
+
+</Art_InsiderDB>
